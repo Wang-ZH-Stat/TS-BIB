@@ -1,2 +1,2 @@
 # TS-BIB
-This is the repo for paper "The Development of Time Series Analysis in Recent Fifty Years: From the Perspective of Bibliometric Analysis"
+This is the repo for paper "A Half-Century of Time Series Analysis: Insights from Bibliometric Study"
